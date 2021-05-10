@@ -1,6 +1,6 @@
 # Pattern Formation
 Pattern Formation code and tests for the paper, 
-(Minimizing The Maximum Distance Traveled To Form Patterns With Systems of Mobile Robots)[https://www.cccg.ca/proceedings/2020/proceedings.pdf#page=83].
+[Minimizing The Maximum Distance Traveled To Form Patterns With Systems of Mobile Robots](https://www.cccg.ca/proceedings/2020/proceedings.pdf#page=83).
 
 
 ## Dependencies
